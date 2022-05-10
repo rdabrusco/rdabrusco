@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [POSITANO'S Restaurant Website](positanosboca.com)
 
-- 🌱 I’m currently learning **Node.js**
+<!-- - 🌱 I’m currently learning **Node.js** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/rdabrusco?tab=repositories](https://github.com/rdabrusco?tab=repositories)
 
