@@ -7,6 +7,8 @@
 
 <!-- - 🌱 I’m currently learning **Node.js** -->
 
+- 📝My portfolio is located at [https://ryandabrusco.netlify.app/](https://ryandabrusco.netlify.app/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/rdabrusco?tab=repositories](https://github.com/rdabrusco?tab=repositories)
 
 - 📫 How to reach me **rdabrusco@gmail.com**
