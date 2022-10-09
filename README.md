@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdabrusco&label=Profile%20views&color=0e75b6&style=flat" alt="rdabrusco" /> </p>
 
-- 🔭 I’m currently working on [POSITANO'S Restaurant Website](positanosboca.com)
+- 🔭 I’m currently working on [Our Recipe Box](https://github.com/rdabrusco/recipe-box)
 
 <!-- - 🌱 I’m currently learning **Node.js** -->
 
